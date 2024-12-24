@@ -1,6 +1,6 @@
 <NODO_DATOS_SM descripcion="Copia de datos desde la URL a datos_sm">
   <output>
-    <conexion>LOCAL ABIT</conexion>
+    <conexion>LOCAL ABIT2</conexion>
     <query type="EXECUTE">
       <sql escape="false"><![CDATA[INSERT INTO p_siap.datos_sm_v2 (descripcion, fecha_registro) values ('', CURRENT_TIMESTAMP);]]></sql>
     </query>
