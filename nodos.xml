@@ -6,5 +6,6 @@
     </query>
   </output>
   <output>
+        <conexion>LOCAL ABIT2</conexion>
   </output>
 </NODO_DATOS_SM>
