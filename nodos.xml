@@ -5,4 +5,6 @@
       <sql escape="false"><![CDATA[INSERT INTO p_siap.datos_sm_v2 (descripcion, fecha_registro) values ('', CURRENT_TIMESTAMP);]]></sql>
     </query>
   </output>
+  <output>
+  </output>
 </NODO_DATOS_SM>
